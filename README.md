@@ -4,7 +4,7 @@ This is the source code for my part of the 4th place solution to the [TGS Salt I
 ![image](https://github.com/SeuTao/Kaggle_TGS2018_4th_solution/blob/master/png/tgs.png)
 
 ## Recent Update
-
+ 
 **`2018.11.06`**: jigsaw python code，dirty code of handcraft rules and pseudo label training code updated.
 
 **`2018.10.22`**: single model training code updated.
